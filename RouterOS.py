@@ -1,9 +1,9 @@
 import routeros_api
 
 # MikroTik router credentials
-router_ip = "192.168.88.1"  # Change to your router's IP address
+router_ip = "192.168.99.101"  # Change to your router's IP address
 username = "admin"
-password = "yourpassword"
+password = ""
 
 # ISP settings
 isp_dns_servers = ["8.8.8.8", "8.8.4.4"]  # Example DNS servers
